@@ -1,5 +1,7 @@
 # Sum of positive
 
+![screenshot 45](https://user-images.githubusercontent.com/47072462/53930957-3b281a00-4061-11e9-9a40-02a0127064ec.jpeg)
+
 ## Codewars Coding Challenge
 You get an array of numbers, return the sum of all of the positives ones.
 Example [1,-4,7,12] => 1 + 7 + 12 = 20
