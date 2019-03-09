@@ -1,5 +1,7 @@
 # A Needle in the Haystack
 
+![Screenshot (50)](https://user-images.githubusercontent.com/47072462/54065959-d520cb80-41f5-11e9-92a3-f49db00f8823.png)
+
 ## Codewars Coding Challenge
 
 Can you find the needle in the haystack?
