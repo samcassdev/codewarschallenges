@@ -1,5 +1,7 @@
 # Friend or Foe?
 
+![Screenshot (53)](https://user-images.githubusercontent.com/47072462/54171135-be75b100-444f-11e9-91db-29a28e9500c8.jpeg)
+
 ## Codewars Coding Challenge
 Make a program that filters a list of strings and returns a list with only your friends name in it.
 
