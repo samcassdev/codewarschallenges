@@ -1,5 +1,7 @@
 # Sum of odd numbers
 
+![Screenshot (59)](https://user-images.githubusercontent.com/47072462/54398693-7e9e0c00-4691-11e9-8722-0e12f7139aca.png)
+
 ## Codewars Coding Challenge
 
 Given the triangle of consecutive odd numbers:
