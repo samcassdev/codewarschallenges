@@ -16,4 +16,4 @@ findSum(10) should return 33 (3 + 5 + 6 + 9 + 10)
 
 ## Learned
 
-In this codewars challenge, I learned how to make best use of for loops to find all of the numbers divisible by 3 and 5.
+In this codewars coding challenge, I learned how to make best use of for loops to find all of the numbers divisible by 3 and 5.
