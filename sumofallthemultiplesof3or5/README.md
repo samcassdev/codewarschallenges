@@ -1,5 +1,7 @@
 # Sum of all the multiples of 3 or 5
 
+![Screenshot (70)](https://user-images.githubusercontent.com/47072462/54655725-5c452d80-4a99-11e9-9427-a8a3adf2b8d1.png)
+
 ## Codewars Coding Challenge
 
 Your task is to write function findSum.
