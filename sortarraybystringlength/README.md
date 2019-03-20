@@ -1,5 +1,7 @@
 # Sort array by string length
 
+![Screenshot (72)](https://user-images.githubusercontent.com/47072462/54656734-33bf3280-4a9d-11e9-8ca7-c18fb392a1f6.png)
+
 ## Codewars Coding Challenge
 
 Write a function that takes an array of strings as an argument and returns a sorted array containing the same strings, ordered from shortest to longest.
