@@ -1,5 +1,7 @@
 # Exes and Ohs
 
+![Screenshot (78)](https://user-images.githubusercontent.com/47072462/54854658-ff7c8980-4cc9-11e9-9a0f-bb1f01e847fe.png)
+
 ## Codewars Coding Challenge
 
 Check to see if a string has the same amount of 'x's and 'o's. The method must return a boolean and be case insensitive. The string can contain any char.
