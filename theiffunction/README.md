@@ -1,5 +1,7 @@
 # The 'if' function
 
+<img width="1440" alt="Screen Shot 2019-04-19 at 11 10 02 PM" src="https://user-images.githubusercontent.com/47072462/56451331-3b226780-62f9-11e9-9dd1-4fbd607f6c94.png">
+
 ## Codewars Coding Challenge
 
 Who likes keywords? Nobody likes keywords, so why use them?
